@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480261572124",
+    "project_id": "go-marco",
+    "storage_bucket": "go-marco.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480261572124:android:e3b158dfb4f123355641d9",
+        "android_client_info": {
+          "package_name": "com.go.marco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480261572124-vfgri2m7ct02scf6euumam73p2hqg2bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxM5njT0C3NPnQE6KMw1XEg-1XqLubfhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480261572124-vfgri2m7ct02scf6euumam73p2hqg2bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
